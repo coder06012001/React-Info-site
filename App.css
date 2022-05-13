@@ -1,0 +1,47 @@
+
+body{
+  box-sizing: border-box;
+  margin: 0;
+  font-family: Inter, sans-serif;
+  height: 100vh;
+  background-color: #282D35;
+}
+.nav{
+  display: flex;
+  background-color: #222222;
+}
+img{
+  width: 90px;
+  margin-left: 20px;
+  background-color: #282D35;
+}
+h3{
+  margin-top:10px;
+  margin-right: 60px;
+  color:rgb(109,221,251);
+}
+h4{
+  margin-left: 60rem;
+  margin-top:0.5rem;
+  color:white;
+}
+.main {
+  padding: 57px 27px;
+  color: white;
+}
+
+.main--title {
+  margin: 0;
+  font-size: 39px;
+  letter-spacing: -0.05em;
+}
+
+.main--facts {
+  margin-top: 46px;
+  
+}
+
+.main--facts > li {
+  line-height: 19px;
+  padding-block: 10px;
+}
